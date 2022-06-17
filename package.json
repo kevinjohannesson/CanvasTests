@@ -9,7 +9,7 @@
   "author": "kevin kroon",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^7.2.1",
+    "electron": "^15.5.5",
     "jsdoc": "^3.6.4"
   },
   "dependencies": {
